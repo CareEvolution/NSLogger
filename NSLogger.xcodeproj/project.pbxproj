@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		DAAD0FAD1C4BE55F0042313D /* LoggerClient.h in Headers */ = {isa = PBXBuildFile; fileRef = DAAD0FA91C4BE55F0042313D /* LoggerClient.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		DAAD0FAE1C4BE55F0042313D /* LoggerClient.m in Sources */ = {isa = PBXBuildFile; fileRef = DAAD0FAA1C4BE55F0042313D /* LoggerClient.m */; };
-		DAAD0FAF1C4BE55F0042313D /* LoggerCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = DAAD0FAB1C4BE55F0042313D /* LoggerCommon.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		DAAD0FAF1C4BE55F0042313D /* LoggerCommon.h in Headers */ = {isa = PBXBuildFile; fileRef = DAAD0FAB1C4BE55F0042313D /* LoggerCommon.h */; };
 		DAAD0FB01C4BE55F0042313D /* NSLogger.h in Headers */ = {isa = PBXBuildFile; fileRef = DAAD0FAC1C4BE55F0042313D /* NSLogger.h */; settings = {ATTRIBUTES = (Public, ); }; };
 /* End PBXBuildFile section */
 
